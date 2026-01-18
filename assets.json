@@ -1,0 +1,8 @@
+{
+    "folder": "assets",
+    "files": {
+        "1": {"name": "icon.png", "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png"},
+        "2": {"bg.png": "https://raw.githubusercontent.com/murshelartem2015-source/chrome_2/refs/heads/main/bg.png"},
+        "3": {"logo.png": "https://raw.githubusercontent.com/murshelartem2015-source/chrome_2/refs/heads/main/google_logo.png"}
+    }
+}
